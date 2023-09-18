@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science 
 - 🌱 I’m currently learning CS50 and prompt enginnering
 - 💞️ I’m looking to collaborate on CS50 game
-- 📫 How to reach me amaan.khamcs50@yahoo.com
+- 📫 How to reach me amaan.khancs50@yahoo.com
 
 <!---
 Amaancs50/Amaancs50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
